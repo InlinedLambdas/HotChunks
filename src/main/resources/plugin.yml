@@ -1,0 +1,4 @@
+name: HotChunks
+version: '${version}'
+main: io.ib67.astralflow.hotchunks.HotChunks
+api-version: 1.18
